@@ -1,0 +1,10 @@
+config:
+  - url:
+      components: input
+      values: http://www.baidu.com/
+  - protocol:
+      components: select
+      values:
+        - http
+        - ws
+        - ws-reverse
